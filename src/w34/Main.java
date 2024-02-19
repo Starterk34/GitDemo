@@ -16,9 +16,10 @@ public class Main {
         circle.setRadius(stdin.nextInt());
         circumference = 2*Math.PI*circle.getRadius();
         area = Math.pow(circle.getRadius(),2)*Math.PI;
-        System.out.println("Circle radius is " + circle.getRadius());
+        System.out.println("Circle radius 555is " + circle.getRadius());
         System.out.println("Circle circumference is " + String.format("%.2f",circumference ));
         System.out.println("Circle area is " + String.format("%.2f",area));
+        System.out.println("Track changes 34");
 
     }
 }

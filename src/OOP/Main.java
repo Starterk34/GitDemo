@@ -33,6 +33,7 @@ public class Main {
            System.out.println(student1.getName() + " " + student1.getSurname() + " вже був на медогляді");
            student1.addCard("був на медогляді");
        }
+        System.out.println("Track changes 1");
 
        }
 
