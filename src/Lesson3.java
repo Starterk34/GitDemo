@@ -11,10 +11,10 @@ public class Lesson3 {
                 System.out.println("Monday");
                 break;
             case 2:
-                System.out.println("Tuesday");
+                System.out.println("Tuesdaydayday");
                 break;
             case 3:
-                System.out.println("Wednesday");
+                System.out.println("Wednesdaydayday ");
                 break;
             case 4:
                 System.out.println("Thursday");
