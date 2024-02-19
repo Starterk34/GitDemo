@@ -16,5 +16,6 @@ public class Lesson_Linked_List {
             Lesson.add((Lesson.size()/2-1), random.nextInt());
         }
         System.out.println(Lesson);
+        System.out.println("Checking GIT777");
     }
 }

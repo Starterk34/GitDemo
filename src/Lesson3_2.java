@@ -15,6 +15,7 @@ public class Lesson3_2 {
             System.out.println("Your number is NOT in specified interval");
         } else {
             System.out.println("Your number is in specified interval");
+            System.out.println("Checking GIT55");
         }
 
     }
