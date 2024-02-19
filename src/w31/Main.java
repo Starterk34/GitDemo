@@ -7,5 +7,6 @@ public class Main {
         System.out.println(me.getName() + " is " + me.getAge() + " years old.");
         System.out.println(her.getName() + " is " + her.getAge() + " years old.");
         System.out.println("Checking GIT");
+        System.out.println("Checking GIT    Checking GIT");
     }
 }
