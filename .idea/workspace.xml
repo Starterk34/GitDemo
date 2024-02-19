@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d82f178-b283-4e3e-8655-6a9ab4aeff07" name="Changes" comment="Student refactoring &#10;Train with test data">
-      <change beforePath="$PROJECT_DIR$/src/HW_Arrays_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_Arrays_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson_Linked_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson_Linked_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "full.screen.before.presentation.mode": "false",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/QABook/GitX"
   }
 }]]></component>
