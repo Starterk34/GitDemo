@@ -6,5 +6,6 @@ public class Main {
         Person her = new Person("Anastasiia", 31);
         System.out.println(me.getName() + " is " + me.getAge() + " years old.");
         System.out.println(her.getName() + " is " + her.getAge() + " years old.");
+        System.out.println("Checking GIT");
     }
 }

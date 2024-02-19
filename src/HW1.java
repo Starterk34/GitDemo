@@ -12,6 +12,7 @@ public class HW1 {
             System.out.println("Circle area is " + area);
         } else {
             System.out.println("Radius must be greater than zero");
+            System.out.println("Checking GIT1");
         }
     }
 

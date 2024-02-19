@@ -11,5 +11,6 @@ public class HW_Arrays_6 {
             }
         }
         System.out.println("The longest name and surname in Dynamo Kyiv squad has " + names[a] + " " + surnames[a] + " (" + max + ").");
+        System.out.println("Checking GIT2");
     }
 }
