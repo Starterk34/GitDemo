@@ -43,5 +43,7 @@ public class Main {
         ForeignStudent.add(new Student("Liza", 93));
         CurrentStudent.addAll(ForeignStudent);
         getFirstSixStudent(CurrentStudent, "Student who passed the second round of exam:");
+        System.out.println("Track changes 22");
     }
+
 }
