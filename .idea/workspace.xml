@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da1639ff-759a-46aa-913a-3129a4d1e37e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentsExams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentsExams/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w34/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w34/Main.java" afterDir="false" />
+    <list default="true" id="1a44b65e-90a7-40e6-8b06-cb728052521c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w31/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="TaskManager">
